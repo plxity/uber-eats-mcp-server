@@ -1,5 +1,6 @@
 # Uber Eats MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@plxity/uber-eats-mcp-server)](https://smithery.ai/server/@plxity/uber-eats-mcp-server)
 This is a POC of how you can build an MCP servers on top of Uber Eats
 
 https://github.com/user-attachments/assets/05efbf51-1b95-4bd2-a327-55f1fe2f958b
